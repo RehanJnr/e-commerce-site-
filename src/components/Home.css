@@ -1,0 +1,25 @@
+
+.top {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 20px; 
+}
+
+.top :h2 {
+  font-size: 3rem;
+  font-family: Roboto Slab;
+  margin-right: 40rem;
+}
+
+
+main {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.products {
+  margin-top: 20px;
+}
